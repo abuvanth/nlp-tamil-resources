@@ -1,0 +1,3 @@
+# nlp-tamil-resources
+
+https://www.researchgate.net/post/Can_anyone_suggest_a_good_POS_tagger_tool_for_Tamil_I_need_to_check_my_tamil_corpus_with_tagging_is_there_any_tool_available
